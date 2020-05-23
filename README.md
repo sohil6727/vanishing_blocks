@@ -1,1 +1,2 @@
-# vanishing_blocks
+# synchronousBallMovement
+Ball moving synchronously
